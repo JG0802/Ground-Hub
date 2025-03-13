@@ -1,0 +1,283 @@
+[ {
+  "inviteCode" : "abcd",
+  "users" : [ "홍길동" ],
+  "formation" : "442",
+  "positions" : [ {
+    "position" : 1,
+    "selected" : "none"
+  }, {
+    "position" : 2,
+    "selected" : "none"
+  }, {
+    "position" : 3,
+    "selected" : "none"
+  }, {
+    "position" : 4,
+    "selected" : "none"
+  }, {
+    "position" : 5,
+    "selected" : "none"
+  }, {
+    "position" : 6,
+    "selected" : "none"
+  }, {
+    "position" : 7,
+    "selected" : "none"
+  }, {
+    "position" : 8,
+    "selected" : "none"
+  }, {
+    "position" : 9,
+    "selected" : "none"
+  }, {
+    "position" : 10,
+    "selected" : "none"
+  }, {
+    "position" : 11,
+    "selected" : "none"
+  } ]
+}, {
+  "inviteCode" : "1234",
+  "users" : [ "홍길동", "전우치" ],
+  "formation" : "4231",
+  "positions" : [ {
+    "position" : 1,
+    "selected" : "none"
+  }, {
+    "position" : 2,
+    "selected" : "none"
+  }, {
+    "position" : 3,
+    "selected" : "none"
+  }, {
+    "position" : 4,
+    "selected" : "none"
+  }, {
+    "position" : 5,
+    "selected" : "none"
+  }, {
+    "position" : 6,
+    "selected" : "none"
+  }, {
+    "position" : 7,
+    "selected" : "none"
+  }, {
+    "position" : 8,
+    "selected" : "none"
+  }, {
+    "position" : 9,
+    "selected" : "none"
+  }, {
+    "position" : 10,
+    "selected" : "none"
+  }, {
+    "position" : 11,
+    "selected" : "none"
+  } ]
+}, {
+  "inviteCode" : "5678",
+  "users" : [ "홍길동" ],
+  "formation" : "442",
+  "positions" : [ {
+    "position" : 1,
+    "selected" : "none"
+  }, {
+    "position" : 2,
+    "selected" : "none"
+  }, {
+    "position" : 3,
+    "selected" : "none"
+  }, {
+    "position" : 4,
+    "selected" : "none"
+  }, {
+    "position" : 5,
+    "selected" : "none"
+  }, {
+    "position" : 6,
+    "selected" : "none"
+  }, {
+    "position" : 7,
+    "selected" : "none"
+  }, {
+    "position" : 8,
+    "selected" : "none"
+  }, {
+    "position" : 9,
+    "selected" : "none"
+  }, {
+    "position" : 10,
+    "selected" : "홍길동"
+  }, {
+    "position" : 11,
+    "selected" : "홍길동"
+  } ]
+}, {
+  "inviteCode" : "ㅁㄴㅇㄹ",
+  "users" : [ "홍길동" ],
+  "formation" : "",
+  "positions" : [ ]
+}, {
+  "users" : [ "홍길동" ],
+  "inviteCode" : "asdf",
+  "positions" : [ {
+    "position" : 1,
+    "selected" : "none"
+  }, {
+    "position" : 2,
+    "selected" : "none"
+  }, {
+    "position" : 3,
+    "selected" : "none"
+  }, {
+    "position" : 4,
+    "selected" : "none"
+  }, {
+    "position" : 5,
+    "selected" : "none"
+  }, {
+    "position" : 6,
+    "selected" : "none"
+  }, {
+    "position" : 7,
+    "selected" : "홍길동"
+  }, {
+    "position" : 8,
+    "selected" : "none"
+  }, {
+    "position" : 9,
+    "selected" : "none"
+  }, {
+    "position" : 10,
+    "selected" : "홍길동"
+  }, {
+    "position" : 11,
+    "selected" : "홍길동"
+  } ],
+  "formation" : "442"
+}, {
+  "inviteCode" : "ㅁㄴㅇㄹ",
+  "users" : [ "홍길동" ],
+  "formation" : "",
+  "positions" : [ ]
+}, {
+  "inviteCode" : "ㅁㄴㅇㄹ",
+  "users" : [ "홍길동" ],
+  "formation" : "",
+  "positions" : [ ]
+}, {
+  "inviteCode" : "ㅁㄴㅇㄹ",
+  "users" : [ "홍길동" ],
+  "formation" : "",
+  "positions" : [ ]
+}, {
+  "inviteCode" : "ㅁㄴㅇㄹ",
+  "users" : [ "홍길동" ],
+  "formation" : "",
+  "positions" : [ ]
+}, {
+  "inviteCode" : "ㅁㄴㅇㄹ",
+  "users" : [ "홍길동" ],
+  "formation" : "",
+  "positions" : [ ]
+}, {
+  "inviteCode" : "ㅁㄴㅇㄹ",
+  "users" : [ "홍길동" ],
+  "formation" : "",
+  "positions" : [ ]
+}, {
+  "inviteCode" : "ㅁㄴㅇㄹ",
+  "users" : [ "홍길동" ],
+  "formation" : "",
+  "positions" : [ ]
+}, {
+  "inviteCode" : "ㅁㄴㅇㄹ",
+  "users" : [ "홍길동" ],
+  "formation" : "",
+  "positions" : [ ]
+}, {
+  "inviteCode" : "ㅁㄴㅇㄹ",
+  "users" : [ "홍길동" ],
+  "formation" : "",
+  "positions" : [ ]
+}, {
+  "inviteCode" : "ㅁㄴㅇㄹ",
+  "users" : [ "홍길동" ],
+  "formation" : "",
+  "positions" : [ ]
+}, {
+  "inviteCode" : "ㅁㄴㅇㄹ",
+  "users" : [ "홍길동" ],
+  "formation" : "",
+  "positions" : [ ]
+}, {
+  "inviteCode" : "ㅁㄴㅇㄹ",
+  "users" : [ "홍길동" ],
+  "formation" : "",
+  "positions" : [ ]
+}, {
+  "inviteCode" : "ㅁㄴㅇㄹ",
+  "users" : [ "홍길동" ],
+  "formation" : "",
+  "positions" : [ ]
+}, {
+  "inviteCode" : "ㅁㄴㅇㄹ",
+  "users" : [ "홍길동" ],
+  "formation" : "",
+  "positions" : [ ]
+}, {
+  "positions" : [ ],
+  "formation" : "433",
+  "users" : [ "홍길동" ],
+  "inviteCode" : "asdfgh"
+}, {
+  "formation" : "4231",
+  "users" : [ "홍길동" ],
+  "inviteCode" : "비공개 테스트팀",
+  "positions" : [ ]
+}, {
+  "isPrivate" : true,
+  "inviteCode" : "비공개 테스트팀2",
+  "users" : [ "홍길동" ],
+  "positions" : [ ],
+  "formation" : "442"
+}, {
+  "users" : [ "이재균" ],
+  "positions" : [ {
+    "position" : 1,
+    "selected" : "none"
+  }, {
+    "position" : 2,
+    "selected" : "none"
+  }, {
+    "position" : 3,
+    "selected" : "none"
+  }, {
+    "position" : 4,
+    "selected" : "none"
+  }, {
+    "position" : 5,
+    "selected" : "none"
+  }, {
+    "position" : 6,
+    "selected" : "none"
+  }, {
+    "position" : 7,
+    "selected" : "none"
+  }, {
+    "position" : 8,
+    "selected" : "none"
+  }, {
+    "position" : 9,
+    "selected" : "none"
+  }, {
+    "position" : 10,
+    "selected" : "none"
+  }, {
+    "position" : 11,
+    "selected" : "none"
+  } ],
+  "formation" : "442",
+  "isPrivate" : false,
+  "inviteCode" : "test5"
+} ]

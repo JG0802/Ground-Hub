@@ -1,0 +1,19 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+
+# 모든 텍스트 파일에서 LF(Line Feed) 줄바꿈을 유지
+* text=auto
+
+# Shell 및 실행 파일은 줄바꿈 변환 방지
+*.sh text eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Java 관련 파일 LF 유지
+*.java text eol=lf
+*.xml text eol=lf
+*.properties text eol=lf
+
+# Git 관련 파일 LF 유지
+.gitattributes text eol=lf
+.gitignore text eol=lf
